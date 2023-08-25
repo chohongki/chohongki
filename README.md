@@ -1,4 +1,4 @@
-![python](https://img.shields.io/badge/python-#2b5b84.svg?&style=for-the-badge&logo=python&logoColor=#2b5b84)
+![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hex4)](https://solved.ac/hex4/)
 
 <!--
