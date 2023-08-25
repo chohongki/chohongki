@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hex4)](https://solved.ac/hex4/)
 
 <!--
 **chohongki/chohongki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
