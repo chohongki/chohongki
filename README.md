@@ -1,4 +1,13 @@
-![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)  
+# Skills
+|||
+|---|---|
+|Launguage|![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white) |
+|Tools|![ROS](https://img.shields.io/badge/ROS-22314E.svg?&style=for-the-badge&logo=ROS&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00878F.svg?&style=for-the-badge&logo=Arduino&logoColor=white)|
+|OS|![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white)|
+|etcs|Matlab, PyQt, MySQL, PyTorch|
+
+
+# Acmicpc.net
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hex4)](https://solved.ac/hex4/)
 
 <!--
